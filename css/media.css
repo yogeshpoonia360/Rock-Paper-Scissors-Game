@@ -21,9 +21,9 @@
     font-size: 1.5rem;
   }
 
-  #msg p {
+  #msg-container {
     font-size: 1.39rem;
     height: 40px;
-    width: 200px;
+    max-width: 95vw;
   }
 }
