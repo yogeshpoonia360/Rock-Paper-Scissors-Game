@@ -1,0 +1,29 @@
+@media only screen and (min-width: 200px) and (max-width: 575px) {
+  #rock-paper-scissors {
+    margin: 0px 0px 0px 0px;
+  }
+
+  #rock,
+  #paper,
+  #scissors {
+    height: 80px;
+    width: 80px;
+    font-size: 3rem;
+  }
+
+  #user-score p:first-child,
+  #comp-score p:first-child {
+    font-size: 2.5rem;
+  }
+
+  #user-score p:last-child,
+  #comp-score p:last-child {
+    font-size: 1.5rem;
+  }
+
+  #msg p {
+    font-size: 1.39rem;
+    height: 40px;
+    width: 200px;
+  }
+}
